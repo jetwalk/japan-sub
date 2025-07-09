@@ -1,0 +1,37 @@
+name: Filter Japan V2Ray and Hysteria2 Configs
+
+on:
+  schedule:
+    - cron: "0 2 * * *" # 每天 UTC 时间 2:00 运行（北京时间 10:00）
+  workflow_dispatch: # 支持手动触发
+
+jobs:
+  filter-configs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run filter script
+        run: python filter_japan_configs.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add japan_configs.txt japan_configs_base64.txt
+          git commit -m "Update Japan configs $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
