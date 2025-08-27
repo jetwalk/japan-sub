@@ -1,32 +1,21 @@
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7Ug5pel5pysdjJ8QHJpcGFvamllZGlhbiIsImFkZCI6IjQ3Ljc0LjU3LjEwIiwicG9ydCI6IjM3MjU3IiwidHlwZSI6InV0cCIsImlkIjoiY2I3NzQ4ODMtMWMyZi00YjhhLTg2MzctODI4ZjM1NmUwYzc2IiwiYWlkIjoiMCIsIm5ldCI6ImtjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#%F0%9F%87%AF%F0%9F%87%B5%20JP%E6%97%A5%E6%9C%AC%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%2066.7KB%2Fs
-trojan://253bc477d4e43c209f2d427272968280@36.151.251.45:1924?sni=v1-dy.ixigua.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
-trojan://253bc477d4e43c209f2d427272968280@36.150.215.141:3171?sni=v1-dy.ixigua.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%2014.0KB%2Fs
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.116:4611?sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.116:1334?sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4
 vmess://eyJ2IjogIjIiLCAicHMiOiAi5pel5pysdjJ8QHJpcGFvamllZGlhbiIsICJhZGQiOiAiNDcuNzQuNTcuMTAiLCAicG9ydCI6ICIzNzI1NyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogImtjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJjYjc3NDg4My0xYzJmLTRiOGEtODYzNy04MjhmMzU2ZTBjNzYiLCAic25pIjogIiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0OGRkOTI1ZC01ZTllLTQ5ZWUtOTY5ZC0wODhlNWYxYWNlYTE=@hz.niaoyun.vip:45372#🇯🇵[Telegram:v2rayng_fars]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjc1MTcyNC0yMGIwLTQ5YTUtODdmYi1iMGViOTViNDQ4NWU@36.141.40.46:15131#🇯🇵日本
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFRXNqUUwwclh3UWdKZXozQVNqb09x@91.194.160.151:1235#@v2ray26:🇯🇵
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFRXNqUUwwclh3UWdKZXozQVNqb09x@91.194.160.151:1235#@v2ray26:🇯🇵 جهت خرید سرور اختصاصی👇  @v2rayng64 استفاده بدون ری اکشن حرام است🌹  اینترنت آزاد
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFRXNqUUwwclh3UWdKZXozQVNqb09x@91.194.160.151:1235?note=--Telegram--@NetifyVPN--#🇯🇵[Telegram:NetifyVpn]
 ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#🇯🇵 @HiByeVPNN👈⚡❤️‍🔥
-ss://YWVzLTEyOC1nY206NDA2ZTRlYTYtODQ0My00NWUyLWEzOTctNDk0MzY1Y2ExYmY4@bit-jp.03ezhg0qsa.download:12061#JP
-trojan://7fec5d9d-4a06-377f-9fc3-6c1fef6a7f4b@111.47.212.170:20139/?type=tcp&security=tls&sni=z139.hongkongnode.top#🄵🄺 🇯🇵 日本•高速139•铂金
-trojan://9c3c38d0-8637-4c94-a790-61f3202a943a@f10011.flyflylflyflysbs.sbs:29496/?type=tcp&security=tls&sni=jp01.ckcloud.info&allowInsecure=1&fp=cJKRHK#JP
-trojan://zY0HGcoAcY2v@104.21.80.1:443?path=/trjx5pNUl8ZquVi8r5/NDQuMjI0LjI0LjkxLDE4LjE4My4xNTguMjEx?ed?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&alpn=http/1.1&host=schqqn0yhrrs34qn3a2k4i6g9xap1tph.pages.dev&fp=chrome&type=ws&sni=SchQqn0yHRRS34QN3a2k4i6G9xap1TpH.pAgEs.dEV#🇯🇵@FreakConfig
-vless://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link13.liangxin1.xyz:36574/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com.cn&fp=chrome&security=reality&pbk=sDG-KQk1BF7V83-xnmrWDouXxpPd_ZSxKcHrJJzbols&sid=32a3650d#🇯🇵日本
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:17278/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.yahoo.com&fp=chrome&security=reality&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sid=&packetEncoding=xudp#🇯🇵日本
-vless://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com.cn&fp=chrome&security=reality&pbk=7yeqj7p-b9BqubE629PrgvcYf4MBV593Ssd7v7l8EBg&sid=83a5b6cd#🇯🇵日本东京
 vless://73fe0ac0-6dc7-45c9-aa0c-d2d21adf9b2b@servrbot-alishabani.sbs:13867?security=none&encryption=none&headerType=none&type=tcp#@EXPRESSVPN_420 VPN 🇯🇵
+vless://908c69ce-71a5-4eaa-a2e6-e5e5fbbcba00@50.114.178.67:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/&security=none&encryption=none&type=ws#🇯🇵[Telegram:NetifyVPN]
 vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?path=/vless/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=none&encryption=none&type=ws#🇯🇵@HiByeVPNN👈⚡❤️‍🔥
-vless://b866d83a-d301-4270-b699-40f322bf52fb@154.85.19.63:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com.cn&fp=chrome&security=reality&pbk=geXtlGNYBAQKgRseZd_iesJeU92z7fY2koG-knCXoWU&sid=e76b7d4e#🇯🇵日本东京3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🇯🇵@FNET00 ♻️ عضو شو
-vless://e10ea0d5-4244-4aec-9ba0-cafe77cc6d90@aws-link15.liangxin1.xyz:35457/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com.cn&fp=chrome&security=reality&pbk=3gb-aG6qLCJpEOFrEPZ9qKqLvVPA_ovlu0X1PvjcE0k&sid=05288db3#🇯🇵日本
 vless://ed242313-b502-4a4a-97f4-336da621a837@45.12.134.217:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇯🇵 | @External_Net
 vless://ed242313-b502-4a4a-97f4-336da621a837@45.12.134.217:80?type=ws&path=/vless/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇯🇵 | @Evay_vpn
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@8.216.121.234:51922/?type=ws&encryption=none&flow=&host=edcck.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&sni=edcck.ambercc.filegear-sg.me&allowInsecure=1&packetEncoding=xudp#JP
-vmess://eyJhZGQiOiIxMzQuMTIyLjE4NC4xMDUiLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE3MDczMzEzMjIzMyIsInBvcnQiOiI0ODg4NSIsInBzIjoi5pel5pysIiwic2N5IjoiYXV0byIsInNuaSI6Ind3dy4xMzE0NjE2NS54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6IjgwIiwicHMiOiLwn4ev8J+HtSB8IEBFeHRlcm5hbF9OZXQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6IjgwIiwicHMiOiLwn4ev8J+HtVtUZWxlZ3JhbTpAdjJyYXluZ19mYXJzXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvP2VkXHUwMDNkMjA0OEBIaUJ5ZVZQTk4tLUBIaUJ5ZVZQTk4tLUBIaUJ5ZVZQTk4tLUBIaUJ5ZVZQTk4tLUBIaUJ5ZVZQTk4tLUBIaUJ5ZVZQTk4tLUBIaUJ5ZVZQTk4tLUBIaUJ5ZVZQTk4tLUBIaUJ5ZVZQTk4tLUBIaUJ5ZVZQTk4tLUBIaUJ5ZVZQTk4tLUBIaUJ5ZVZQTk4tLUBIaUJ5ZVZQTk4iLCJwb3J0IjoiODAiLCJwcyI6IvCfh6/wn4e1QEhpQnllVlBOTvCfkYjimqHinaTvuI/igI3wn5SlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
@@ -35,5 +24,5 @@ vmess://eyJhZGQiOiJwYW5lbDMuaXB5YXIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIs
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443#%3E%3E%40free4allVPN%3A%3AJP
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.204:443#%3E%3E%40free4allVPN%3A%3AJP
 ss://YWVzLTEyOC1nY206MTAwODY%3D@153.121.43.183:10087#%3E%3E%40V2RAY_VMESS_free%3A%3AJP
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0260
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0216
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh23v4.vetmainconf.shop#Samourai%20VPN%20🇯🇵
